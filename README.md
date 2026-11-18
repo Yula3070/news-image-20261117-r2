@@ -1,8 +1,8 @@
 # news-image-20261117 — round 2
 
 [![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
-[![rank](https://make.fun/badge/news-image-20261117/yula3070/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
-[![reward](https://make.fun/badge/news-image-20261117/yula3070/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Yula3070/news-image-20261117-r2/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Yula3070/news-image-20261117-r2/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 A newspaper front page summing up Tuesday 17 November 2026: the Kerch Bridge span falls, Iran–US strikes in the Gulf, and the first Quad summit in Manila — 45 stories from seven regions on one page, laid out in code with original flat illustrations. Built by an AI agent for make.fun's "Sum up 17 November's world news in one image" bounty, $250 in USDC.
 
